@@ -37,7 +37,7 @@ header {
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 
 /* vertically center banner section */
@@ -190,7 +190,7 @@ ul#nav li.current a { color: #F06000; }
    background: #2B2B2B;
    padding-top: 96px;
    padding-bottom: 66px;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -239,7 +239,7 @@ ul#nav li.current a { color: #F06000; }
    background: #fff;
    padding-top: 90px;
    padding-bottom: 72px;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 
 #resume a, #resume a:visited  { color: #11ABB0; }
@@ -560,7 +560,7 @@ ul#nav li.current a { color: #F06000; }
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;
-   overflow: hidden;
+   /* overflow: hidden; */
    position: relative;
 
    -webkit-transition: all 0.3s ease-in-out;
@@ -780,7 +780,7 @@ call-to-action .button {
    position: relative;
    min-height: 200px;
    width: 100%;
-   overflow: hidden;
+   /* overflow: hidden; */
 }
 #testimonials .text-container {
    padding-top: 96px;
@@ -875,8 +875,8 @@ call-to-action .button {
 /* Slider Styles */
 .slides { zoom: 1; }
 .slides > li {
-   /*margin-right: 5px; */
-   overflow: hidden;
+   /* margin-right: 5px;
+   overflow: hidden; */
 }
 
 /* Control Nav */
